@@ -1,0 +1,27 @@
+{
+    "short_name": "Sanket",
+    "name": "Got Selected",
+    
+    "start_url": "/index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#ff0000",
+    "shortcuts": [
+      {
+        "name": "sanket",
+        "short_name": "san",
+        "description": "View resume",
+        "url": "/index.html"
+        
+      },
+      {
+        "name": "Resume",
+        "short_name": "rsme",
+        "description": "View resume",
+        "url": "/index.html"
+       
+      }
+    ],
+    "description": "Resume presentation"
+}
