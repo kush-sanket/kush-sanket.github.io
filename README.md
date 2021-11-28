@@ -1,4 +1,5 @@
- saku20mca@gmail.com    9611127702
+# COVER LETTER
+saku20mca@gmail.com    9611127702
 <br />
 
  28/Nov/2021
@@ -33,8 +34,9 @@ Being a fresher I am flexible to learn new things, and I am sure that I will be 
 
 
 
+<hr> </hr>
 
-# Resume
+# RESUME
 ## Sanket Kushwaha
 >Email ID: Kush.sanket@gmail.com <br/>
 >Mobile No: +91 961 112 7702 <br/>
